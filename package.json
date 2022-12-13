@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "it": "^1.1.1",
     "scrape": "^0.2.3",
     "scrape-it": "^5.1.4"
